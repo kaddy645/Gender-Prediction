@@ -1,6 +1,8 @@
 # Gender-Prediction
 A C++ project which can detect gender using Logistic Regression
 
+Logistic regression is a supervised learning classification algorithm used to predict the probability of a target variable. 
+
 
 ### Results 
 
